@@ -1,6 +1,6 @@
 requests
 numpy
-ipykernel
+ipykernel # To create a venv (and a kernel) for the notebook
 pandas
 matplotlib
 geopandas
